@@ -27,7 +27,5 @@ class Calc{
 
     // todo methods +,-,/,*
 
-    public function plus(){
-        return $this->operandA + $this->operandB;
-    }
+    
 }
